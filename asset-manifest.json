@@ -1,18 +1,36 @@
 {
   "files": {
-    "main.css": "/static/css/main.0740ceb5.css",
-    "main.js": "/static/js/main.5abfc9d0.js",
-    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
-    "static/media/image.jpg": "/static/media/image.c0edfeaa80ae45dc4002.jpg",
-    "static/media/profile.jpg": "/static/media/profile.4f705684c79ee4030cc1.jpg",
-    "static/media/Formula1-Regular.otf": "/static/media/Formula1-Regular.a5336cac9ba0fc563d1e.otf",
+    "main.css": "/static/css/main.8f7c9313.css",
+    "main.js": "/static/js/main.7f8b3655.js",
+    "static/js/453.917a454f.chunk.js": "/static/js/453.917a454f.chunk.js",
+    "static/media/women.jpg": "/static/media/women.d826f535e3b41a2b71b2.jpg",
+    "static/media/banner.png": "/static/media/banner.4cb11613dcb3fa6ea3cc.png",
+    "static/media/gucci.png": "/static/media/gucci.8bd38e152ff1d589fb36.png",
+    "static/media/2.png": "/static/media/2.578c702675ef8f3a9894.png",
+    "static/media/mainbanner.png": "/static/media/mainbanner.e13653823af7055d799b.png",
+    "static/media/guccioud.png": "/static/media/guccioud.a19a8c8af78f9b1f6525.png",
+    "static/media/3.png": "/static/media/3.d9f60e895b39b0ef041f.png",
+    "static/media/jacket.png": "/static/media/jacket.cabbdb06d0d0fa028789.png",
+    "static/media/ps.png": "/static/media/ps.b8198f1cbee109c10df0.png",
+    "static/media/4.png": "/static/media/4.55dd1edd265d5b8ce11b.png",
+    "static/media/ps5.png": "/static/media/ps5.0a6f4271f1f8bc138e6a.png",
+    "static/media/1.png": "/static/media/1.c904cbe0cd17d2a8e29b.png",
+    "static/media/speakers.png": "/static/media/speakers.c9b630e33d000901c7c5.png",
+    "static/media/tv.png": "/static/media/tv.7da72f532ca02327f5f8.png",
+    "static/media/rgb.png": "/static/media/rgb.39732c16ae63cae496d2.png",
+    "static/media/keyboard.png": "/static/media/keyboard.b4530499fcbf462a7767.png",
+    "static/media/laptop.png": "/static/media/laptop.760b78d0cbbc06203901.png",
+    "static/media/cart-phone.jpg": "/static/media/cart-phone.c90deadab061b8bfcdc5.jpg",
+    "static/media/controller.png": "/static/media/controller.df01764e661683423351.png",
+    "static/media/google.png": "/static/media/google.11974f9988b9920a6089.png",
+    "static/media/apple.png": "/static/media/apple.426442d95c0d2a4c8889.png",
     "index.html": "/index.html",
-    "main.0740ceb5.css.map": "/static/css/main.0740ceb5.css.map",
-    "main.5abfc9d0.js.map": "/static/js/main.5abfc9d0.js.map",
-    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+    "main.8f7c9313.css.map": "/static/css/main.8f7c9313.css.map",
+    "main.7f8b3655.js.map": "/static/js/main.7f8b3655.js.map",
+    "453.917a454f.chunk.js.map": "/static/js/453.917a454f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0740ceb5.css",
-    "static/js/main.5abfc9d0.js"
+    "static/css/main.8f7c9313.css",
+    "static/js/main.7f8b3655.js"
   ]
 }
